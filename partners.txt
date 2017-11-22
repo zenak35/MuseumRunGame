@@ -1,0 +1,26 @@
+/**********************************************************************
+ *  Project PartnerParticipation Report
+ *  If you had a partner, you must fill out this form. This form must
+ *  be completed seperately by each partner and submitted seperately.
+ **********************************************************************/
+Your name: Zena Kipkenda
+Your partner's name: Roberta Nin Feliz
+
+
+
+/**********************************************************************
+ *  Describe what specifically you contributed to this project. Are you
+ *  satisfied with your own work on this project?
+ **********************************************************************/
+I introduced and did an intial implementation of the timer and the linked
+list in the project. I also helped in debugging the final program.
+Yes, I am satisfied with my own work.
+
+
+/**********************************************************************
+ *  Describe what specifically your partner contributed to this project.
+ *  Are you satisfied with your partner's work on this project?
+ **********************************************************************/
+Roberta did the most of the work with drawing Items in the drawItems method.
+She also helped with the debugging and the testing in the FlowerPicker class.
+Yes, I am satisfied with her work.
